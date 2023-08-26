@@ -52,7 +52,7 @@ function Content() {
                     <div className="bottomwrapper">
                         <div className="bottomprofile">
                             <hr className="hr" />
-                            <img src="/assets/2.jpeg" alt="" className="proflile" />
+                            <img src="./assets/2.jpeg" alt="" className="proflile" />
                             <hr className="hr" />
                         </div>
                         <div className="bottomprofiletext">

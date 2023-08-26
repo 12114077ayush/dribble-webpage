@@ -12,7 +12,7 @@ const Feed = () => {
         <div className="contentbar">
             <Content />
             <div className="rightcontent">
-                <img src="/assets/2.jpeg" alt="" className="rightprofile" style={{ zIndex: 1 }} />
+                <img src="./assets/2.jpeg" alt="" className="rightprofile" style={{ zIndex: 1 }} />
                 <FeedbackIcon className="rightbaricon" style={{ zIndex: 1 }} />
                 <SendIcon className="rightbaricon" />
                 <InfoOutlinedIcon className="rightbaricon" />

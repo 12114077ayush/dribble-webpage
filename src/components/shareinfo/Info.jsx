@@ -8,7 +8,7 @@ const Info = () => {
                 <div className="feedwrapper">
                     <div className="feedtop">
                         <div className="feedtopleft">
-                            <img src="/assets/2.jpeg" alt="" className="feedprofile" />
+                            <img src="./assets/2.jpeg" alt="" className="feedprofile" />
                             <span className="feedtoptexts">
                                 <p className="text1">Ahead app redesign concept</p>
                                 <div className="decs">
