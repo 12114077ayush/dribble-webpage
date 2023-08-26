@@ -1,0 +1,81 @@
+.contentcontainer {
+    height: 300px;
+    position: sticky;
+    width: 100%;
+    margin-top: 0;
+}
+
+.contentwrapper {
+    padding: 40px 40px;
+    width: 75vw;
+    margin-left: 10vw;
+}
+
+.Carousel {
+    width: 80vw;
+}
+
+.d-block {
+    height: 800px;
+    object-fit: contain;
+}
+
+.Carousel.Caption {
+    color: black;
+}
+
+.text {
+    padding-left: 140px;
+    font-size: 20px;
+}
+
+.mailicon {
+    position: relative;
+    font-size: 25px !important;
+}
+
+.img {
+    margin-left: 5vw;
+    height: 100%;
+    width: 90%;
+}
+
+.bottomprofile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.hr {
+    width: 500px;
+    color: black;
+}
+
+.proflile {
+    height: 62px;
+    width: 62px;
+    border-radius: 50%;
+    border: none;
+    margin: 0px 15px;
+    object-fit: cover;
+}
+
+.bottomtext {
+    display: flex;
+    justify-content: center;
+    margin: 5px 25px;
+    font-size: 20px;
+}
+
+.hirebtn {
+    display: flex;
+    justify-content: center;
+    margin: 25px auto;
+    background-color: #ee6ba1;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+}

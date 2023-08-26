@@ -1,0 +1,110 @@
+.navbartop {
+    height: 70px;
+    display: flex;
+    background-color: #ec76a7;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+}
+
+.navcenter {
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    flex: 5;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+}
+
+.navbar-nav {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 520;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.navcenter {
+    flex: 3.5;
+    display: flex;
+    align-items: center;
+}
+
+.search-bar {
+    border: none;
+    border-radius: 15px;
+    width: 100%;
+    height: 30px;
+
+}
+
+.searchicon {
+    font-size: 20px !important;
+    margin-left: 5px;
+}
+
+.search-bar:focus {
+    outline: none;
+}
+
+.navbarright {
+    flex: 3.5;
+}
+
+.navrightbuttons {
+    display: flex;
+    padding: 0px 40px;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navrightbutton {
+    padding: 10px;
+}
+
+.button-login {
+    padding: 10px;
+    background-color: #ec76a7;
+    border: none;
+    font-weight: 450;
+}
+
+.button-signup {
+    padding: 10px;
+    background-color: #f4a8c8;
+    border-radius: 10px;
+    border: none;
+    font-weight: 450;
+}
+
+.button-signup:hover {
+    background-color: #fccce0;
+}
+
+.button-hire {
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #2B2730;
+    color: white;
+    font-weight: 450;
+
+}
+
+.button-hire:hover {
+    background-color: #383739;
+}
